@@ -1,15 +1,20 @@
 <template>
-  <div class="content">
-    <div class="message">
-      <div class="message-top">Hi There,</div>
-      <div class="message-inner">
-        I'm
-        <span class="highlight">
-          Mazlum <br />
-          Yıldırım
-        </span>
+  <div class="the-container">
+    <Background />
+    <TheHeader />
+    <div class="content">
+      <div class="message">
+        <div class="message-top">Hi There,</div>
+        <div class="message-inner">
+          I'm
+          <span class="highlight">
+            Mazlum <br />
+            Yıldırım
+          </span>
+        </div>
       </div>
     </div>
+    <TheFooter />
   </div>
 </template>
 
