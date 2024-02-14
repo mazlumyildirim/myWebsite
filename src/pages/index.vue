@@ -1,5 +1,4 @@
 <template>
-  <Background />
   <div class="content">
     <div class="message">
       <div class="message-top">Hi There,</div>
@@ -41,7 +40,7 @@
   font-weight: bold;
 
   .highlight {
-    color: blue;
+    color: #bb0000;
   }
 }
 
