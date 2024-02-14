@@ -9,9 +9,18 @@
   </div>
 </template>
 
-<script setup>
-import { TheHeader } from "#components";
-import { TheFooter } from "#components";
+<script>
+import TheHeader from "@/components/TheHeader.vue";
+import TheFooter from "@/components/TheFooter.vue";
+import Background from "@/components/Background.vue";
+
+export default {
+  components: {
+    TheHeader,
+    TheFooter,
+    Background,
+  },
+};
 </script>
 
 <style lang="scss" scoped>
