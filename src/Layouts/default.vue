@@ -10,8 +10,12 @@
 </template>
 
 <script>
+import { Background } from "../components/Background.vue";
 export default {
   name: "default",
+  components: {
+    Background,
+  },
 };
 </script>
 
