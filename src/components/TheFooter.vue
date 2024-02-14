@@ -2,7 +2,7 @@
     <div class="footer">
         <div class="the-container">
             <div class="footer-wrapper">
-                <a href="mail:ia.mazlumyildirim@gmail.com" class="button-contact">
+                <a href="mailTo:ia.mazlumyildirim@gmail.com" class="button-contact">
                     Keep in Touch
                 </a>
 
