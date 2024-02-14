@@ -1,4 +1,5 @@
 <template>
+  <Background />
   <div class="content">
     <div class="message">
       <div class="message-top">Hi There,</div>
