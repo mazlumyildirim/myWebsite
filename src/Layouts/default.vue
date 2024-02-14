@@ -10,16 +10,8 @@
 </template>
 
 <script>
-import TheHeader from "@/components/TheHeader.vue";
-import TheFooter from "@/components/TheFooter.vue";
-import Background from "@/components/Background.vue";
-
 export default {
-  components: {
-    TheHeader,
-    TheFooter,
-    Background,
-  },
+  name: "default",
 };
 </script>
 
