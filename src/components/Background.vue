@@ -67,6 +67,6 @@
 .background-line {
   width: 1px;
   height: 100%;
-  background: rgba(255, 255, 255, 0.04);
+  background: rgba(255, 255, 255, 0.02);
 }
 </style>
