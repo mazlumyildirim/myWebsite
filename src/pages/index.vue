@@ -40,7 +40,7 @@
   font-weight: bold;
 
   .highlight {
-    color: #bb0000;
+    color: blue;
   }
 }
 
